@@ -14,7 +14,7 @@ December, as expected, as the lowest temperature of the two with almost a 10 deg
 
 
 ###### June Statistics
-![June_results](.../Resources/June_results.png)
+![June_results](/../Resources/June_results.png)
 
 
 ###### December Statistics
