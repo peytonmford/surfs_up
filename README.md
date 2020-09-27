@@ -9,12 +9,15 @@ The results of the analysis were successful. As you can see in both statistics o
 - Count of temperatures
 - Highest temperature
 
-December, as expected, as the lowest temperature of the two with almost a 10 degree difference. 
+December, as expected, as the lowest temperature of the two with almost a 10 degree difference. This could mean that both the ice cream and surf shop are going to be less profitable in December with temperatures like that; but, the average temperatures are very close, with only a 3 degree less in December. The amount of data for June and December are different as well. This means that December could have a higher average if there was more data. Another difference is the highest temperature. Only being a couple degrees lower, December weather is pretty good in comparison to June's. 
 
 
 
 ###### June Statistics
 ![June_results](Resources/June_results.png)
 
-
 ###### December Statistics
+![Dec_results](Resources/Dec_results.png)
+
+## Summary
+I believe that the analysis of the weather in both June and December have a lot of similarities. The highest and average temperatures were pretty close in degrees, making this surf shop profitable in both June and December in Oahu.
